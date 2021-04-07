@@ -10,3 +10,5 @@ df.head()
 df.boxplot(column=['G2DFLD','FG2DFLD','WFG-2DFLD','EnFFG-2DLDA'],grid=False)
 
 df.boxplot(column=['G2DFLD'],grid=True)
+
+
